@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="specialPrograms" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/specialPrograms" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/specialPrograms" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="addFullAdder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addHalfAdder.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="addInc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="armstrongNumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="binaryToDecimal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fibonacciSeries.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="floydTriangle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="leapYear.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="palindromeCheck.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="perfectNumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="powerTo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="primeNumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pyramidOfStars.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strongNumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

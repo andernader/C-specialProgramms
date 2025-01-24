@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1737740427 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\main.c
+	"header.h"
+
+1737740427 c:\users\ammar\documents\programming journey\c programs\specialprograms\header.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1737670858 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\pyramidofstars.c
+	"header.h"
+
+1737742748 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\palindromecheck.c
+	"header.h"
+
+1737742755 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\armstrongnumber.c
+	"header.h"
+
+1737742895 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\strongnumber.c
+	"header.h"
+
+1737742975 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\primenumber.c
+	"header.h"
+
+1737720249 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\addinc.c
+	"header.h"
+
+1737721975 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\addhalfadder.c
+	"header.h"
+
+1737727644 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\addfulladder.c
+	"header.h"
+
+1737742760 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\fibonacciseries.c
+	"header.h"
+
+1737727563 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\floydtriangle.c
+	"header.h"
+
+1737736923 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\binarytodecimal.c
+	"header.h"
+
+1737739041 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\powerto.c
+	"header.h"
+
+1737739744 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\leapyear.c
+	"header.h"
+
+1737743114 source:c:\users\ammar\documents\programming journey\c programs\specialprograms\perfectnumber.c
+	"header.h"
+
